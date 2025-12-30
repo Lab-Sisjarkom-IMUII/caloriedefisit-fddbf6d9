@@ -1,0 +1,9 @@
+{
+  "name": "caloridefisit",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "next build",
+  "startCommand": "next start",
+  "domain": "caloriedefisit",
+  "email": "raffawhisandewa@gmail.com"
+}
